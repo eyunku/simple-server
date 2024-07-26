@@ -4,7 +4,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/socket.h>
-#include <sys/stat.h>
 #include <sys/types.h>
 #include <netinet/ip.h>
 #include <netinet/in.h>
@@ -14,9 +13,7 @@
 #include <regex.h>
 #include <errno.h>
 #include <arpa/inet.h>
-#include <ctype.h>
-#include <dirent.h>
-#include <fcntl.h>
 #include <string.h>
+#include <time.h>
 
 #endif
